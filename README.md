@@ -1,6 +1,6 @@
 # Welcome to Our Food Ordering Website!
 
-![Banner Image](banner-image.jpg)
+![Banner Image](https://res.cloudinary.com/ddxl5pws9/image/upload/v1707315041/Screenshot_45_hsauag.png)
 
 Hey there! Welcome to our food ordering website repository. Here you'll find all the code that powers our awesome online food ordering platform. 🍔🌮🥗
 
@@ -12,15 +12,10 @@ Hey there! Welcome to our food ordering website repository. Here you'll find all
 ## How to Use
 
 1. Clone this repository to your local machine.
-2. Open the `index.html` and `style.css`file in your web browser.
+2. Open the `index.html` and `style. css`file in your web browser.
 3. Start exploring our mouthwatering menu and place your order with ease!
 
-Let's connect and share the love for food! 🍽️✨
+Let's connect and share our love for food! 🍽️✨
 
-## Credits
 
-Special thanks to Bootstrap for making our design dreams come true, and to the amazing open-source community for their valuable contributions.
-
----
-
-Happy ordering! 🛒🎉
+Happy coding ! 🛒🎉
